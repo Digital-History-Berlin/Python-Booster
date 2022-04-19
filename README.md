@@ -9,6 +9,7 @@ Notebooks, exercises and data for the Python Booster.
 ## Termin 
 
 Mi, 20.4.2022, 16 Uhr bis 18 Uhr
+
 Do, 21.4.2022, 16 Uhr bis 19 Uhr
 
 ## Zeitliche Abfolge und Agenda
@@ -16,20 +17,17 @@ Do, 21.4.2022, 16 Uhr bis 19 Uhr
 ### Tag 1:
 
 * Einstiegsaufgaben zu Python
-* Umfrage zu den Aufgaben
-    * Welche Bedarfe bei Python?
-    * Selbsteinschätzung
+* Umfrage zur Selbsteinschätzung
 * Besprechung der Aufgaben
 
 * Feedback und Fragen zum Jupyter-Book
 * Besprechung der Fragen
 
 * gemeinsame Übung: Daten strukturiert speichern
-    * csv, json
 
 ## Tag 2:
 
-* flexibel auf Bedarfe eingehen
+* Flexibel Pythonkompetenzen auffrischen
 
 * Pandas Basic
-* Pandas Plotten
+* Plotten mit Pandas, Matplotlib und Seaborn
