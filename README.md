@@ -17,7 +17,7 @@ Do, 21.4.2022, 16 Uhr bis 19 Uhr
 ### Tag 1:
 
 * Einstiegsaufgaben zu Python
-* Umfrage zur Selbsteinschätzung
+* Umfrage zur Selbsteinschätzung: https://www.menti.com/mqx8j1surv
 * Besprechung der Aufgaben
 
 * Feedback und Fragen zum Jupyter-Book
