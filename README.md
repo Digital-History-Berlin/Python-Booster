@@ -25,7 +25,7 @@ Do, 21.4.2022, 16 Uhr bis 19 Uhr
 
 * gemeinsame Übung: Daten strukturiert speichern
 
-## Tag 2:
+### Tag 2:
 
 * Flexibel Pythonkompetenzen auffrischen
 
