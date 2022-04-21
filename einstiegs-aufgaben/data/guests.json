@@ -1,0 +1,30 @@
+{
+    "label": "Gästeliste",
+    "owner": "Melanie Althage",
+    "guests": [
+        {
+            "Nachname": "Meier",
+            "Vorname": "Tim",
+            "Ernährungsform": "vegetarisch",
+            "Allergie": "keine"
+        },
+        {
+            "Nachname": "Wilson",
+            "Vorname": "Anna",
+            "Ernährungsform": "omnivor",
+            "Allergie": "Nuss"
+        },
+        {
+            "Nachname": "Schmidt",
+            "Vorname": "Bernd",
+            "Ernährungsform": "vegan",
+            "Allergie": "keine"
+        },
+        {
+            "Nachname": "Roth",
+            "Vorname": "Martina",
+            "Ernährungsform": "vegetarisch",
+            "Allergie": "Gluten"
+        }
+    ]
+}
