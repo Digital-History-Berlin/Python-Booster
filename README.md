@@ -6,7 +6,10 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.
 
 Notebooks, Übungen und Daten für den Python Booster.
 
-## Termin 
+<!-- alte Angaben aus dem SoSe2022
+
+
+## Termin  
 
 Mi, 20.4.2022, 16 Uhr bis 18 Uhr
 
@@ -41,4 +44,4 @@ Die Textdaten für den Python-Booster sind dem Projekt [German Political Speeche
 
 Barbaresi, Adrien (2018). "A corpus of German political speeches from the 21st century", Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), European Language Resources Association (ELRA), pp. 792–797. http://purl.org/corpus/german-speeches (BibTeX entry)
 
-Adrien Barbaresi. (2019). German Political Speeches Corpus (Version v4.2019) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3611246
+Adrien Barbaresi. (2019). German Political Speeches Corpus (Version v4.2019) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3611246 -->

@@ -43,4 +43,57 @@
             ]
         }
     ]
+}{
+    "label": "My Library",
+    "books available": true,
+    "owner": "Melanie Althage",
+    "books": [
+        {
+            "title": "Der Prozess",
+            "author": "Franz Kafka",
+            "year": 1935,
+            "editions": [
+                1935,
+                1946,
+                1963,
+                1990,
+                2011,
+                2012
+            ]
+        },
+        {
+            "title": "Half of a Yellow Sun",
+            "author": "Chimamanda Ngozi Adichie",
+            "year": 2006,
+            "editions": [
+                2006,
+                2007,
+                2017
+            ]
+        },
+        {
+            "title": "Network Effect",
+            "author": "Martha Wells",
+            "year": 2020,
+            "editions": [
+                2020
+            ]
+        },
+        {
+            "title": "Das Haus - House of Leaves",
+            "author": "Mark Z. Danielewski",
+            "year": 2000,
+            "editions": [
+                2000
+            ]
+        },
+        {
+            "title": "Das Haus - House of Leaves",
+            "author": "Mark Z. Danielewski",
+            "year": 2000,
+            "editions": [
+                2000
+            ]
+        }
+    ]
 }
